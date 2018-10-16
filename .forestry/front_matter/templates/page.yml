@@ -15,4 +15,5 @@ fields:
   - media-feature
   - hero-section
 pages:
+- content/about-the-club.md
 - content/_index.md
