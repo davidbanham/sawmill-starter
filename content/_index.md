@@ -2,9 +2,9 @@
 title = "Sawmill: A Modular Layout Builder for Hugo and Forestry.io"
 type = "page"
 [[blocks]]
-background_image = "/uploads/2018/04/20/logs-splash.png"
+background_image = "/uploads/2018/10/16/brindabella_header.jpg"
 background_style = "Dark"
-heading = "Sawmill"
+heading = "Brindabella Ski Club"
 size = "Big"
 subheading = "A Modular Layout Builder for Hugo and [Forestry.io](https://forestry.io)"
 template = "hero-section"
