@@ -4,9 +4,5 @@ theme = "sawmill"
 title = "Sawmill"
 [Author]
 name = "DJ Walker"
-[[menu.main]]
-name = "View on Github"
-url = "https://github.com/dwalkr/sawmill"
-weight = 10
 [params]
 logo = "/logo.svg"

@@ -1,6 +1,9 @@
 +++
 title = "Index"
 type = "page"
+[menu.main]
+name = "Home"
+weight = 1
 [[blocks]]
 background_image = "/uploads/2018/10/16/brindabella_header.jpg"
 background_style = "Dark"
