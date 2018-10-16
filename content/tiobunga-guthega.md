@@ -1,6 +1,9 @@
 +++
 date = "2018-10-16T03:50:07+00:00"
 title = "Tiobunga (Guthega)"
+[menu.main]
+parent = "Lodges"
+weight = 1
 [[blocks]]
 background_style = "Brand Color"
 heading = "Tiobunga (Guthega)"

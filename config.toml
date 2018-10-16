@@ -4,5 +4,8 @@ theme = "sawmill"
 title = "Sawmill"
 [Author]
 name = "DJ Walker"
+[[menu.main]]
+name = "Lodges"
+weight = 3
 [params]
 logo = "/logo.svg"
