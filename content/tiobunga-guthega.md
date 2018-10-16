@@ -2,5 +2,14 @@
 date = "2018-10-16T03:50:07+00:00"
 draft = true
 title = "Tiobunga (Guthega)"
+[[blocks]]
+background_style = "Brand Color"
+heading = "Tiobunga (Guthega)"
+size = "Big"
+subheading = "Lot 147 Mt Tate Rd"
+template = "hero-section"
+[[blocks]]
+content = "# Tiobunga (Guthega)\n\nLot 147 Mt Tate Rd  \n (Third lodge on left after car park gate)  \n Guthega NSW 2624\n\nPhone: 02 6457 5329\n\nManager (Winter Only): 02 6457 5511 or 0481 135685![](https://www.brindabellaskiclub.org.au/content/openfile.aspx?fileid=1617)![](https://www.brindabellaskiclub.org.au/content/openfile.aspx?fileid=1618)![](https://www.brindabellaskiclub.org.au/content/openfile.aspx?fileid=1623)![](https://www.brindabellaskiclub.org.au/content/openfile.aspx?fileid=1622)![](https://www.brindabellaskiclub.org.au/content/openfile.aspx?fileid=1627)![](https://www.brindabellaskiclub.org.au/content/openfile.aspx?fileid=1630)![](https://www.brindabellaskiclub.org.au/content/openfile.aspx?fileid=1628)![](https://www.brindabellaskiclub.org.au/content/openfile.aspx?fileid=1620)![](https://www.brindabellaskiclub.org.au/content/openfile.aspx?fileid=1621)![](https://www.brindabellaskiclub.org.au/content/openfile.aspx?fileid=1626)\n\n### "
+template = "body-copy"
 
 +++
