@@ -15,6 +15,7 @@ fields:
   - media-feature
   - hero-section
 pages:
+- content/kyilla-guthega.md
 - content/tiobunga-guthega.md
 - content/about-the-club.md
 - content/_index.md
