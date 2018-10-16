@@ -9,7 +9,7 @@ heading = "About the Club"
 size = "Small"
 template = "hero-section"
 [[blocks]]
-content = "[Tiobunga (Guthega)](/tiobunga-guthega/)\n\n[Kyilla (Guthega)](https://brindabellaskicluborgau.wordpress.com/kyilla-guthega/)\n\n[Waragun (Thredbo)](https://brindabellaskicluborgau.wordpress.com/waragun-thredbo/)"
+content = "[Tiobunga (Guthega)](/tiobunga-guthega/)\n\n[Kyilla (Guthega)](/kyilla-guthega/)\n\n[Waragun (Thredbo)](https://brindabellaskicluborgau.wordpress.com/waragun-thredbo/)"
 template = "body-copy"
 
 +++
